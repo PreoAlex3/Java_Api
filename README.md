@@ -1,0 +1,1 @@
+This project demonstrates the integration of the Log4j logging framework in a Spring Boot application. The primary focus is to showcase logging capabilities using two RESTful endpoints, each capturing and logging input parameters received from the user.
